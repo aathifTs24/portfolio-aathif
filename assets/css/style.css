@@ -333,7 +333,6 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 10px;
 }
 
 .info-content .name {
@@ -1337,7 +1336,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 5px; }
+  .avatar-box { border-radius: 0px; }
 
   .avatar-box img { width: 120px; }
 
